@@ -1,0 +1,96 @@
+Inv. Number	Investigator Name	Subject ID	Screening Pat. No.	Subject Initials Not Collected	Sex	Birthdate	Test	Reference Range	Screening	Randomization	Week 1	Week 4	Week 8	EOT	Early Termination	Follow-up	Randomization Biomarkers	Retest
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	25-Hydroxy Vitamin D	>=29.0 ng/mL	7.9 / L*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	ALT (SGPT)	6-34 U/L	15									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	AST (SGOT)	9-34 U/L	25									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Albumin-BCG	3.3-4.9 g/dL	3.8									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Alkaline Phosphatase-QT	31-106 U/L	148 / H* G1*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Amphetamines/MDMA	Neg;; Cutoff = 1000 ng/mL	Neg									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Bands	0.00-0.27 x10^3/uL	3.43 / H*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Bands (%)	0.0-3.0 %	11.0 / H*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Barbiturates	Neg;; Cutoff = 200 ng/mL	Neg									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Basophils	0.00-0.20 x10^3/uL	0.31 / H*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Basophils (%)	0.0-2.0 %	1									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Benzodiazepines	Neg;; Cutoff = 200 ng/mL	Neg									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	CBC Comment:		diseases Present; Immature Granulocyte Present									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	"CRP(hs),non-cardiac"	0.000-1.000 mg/dL	8.930 / H*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Calcium (EDTA)	8.3-10.6 mg/dL	8.7									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Cholesterol (High Performance)	141-240 mg/dL	97 / L*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Cocaine	Neg;; Cutoff = 300 ng/mL	Neg									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Direct Bilirubin	<0.1-0.4 mg/dL	1.5 / H*  EX*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Direct HDL-C 3rd Generation-QT	36-77 mg/dL	28 / L*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Eosinophils	0.00-0.57 x10^3/uL	0.31									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Eosinophils (%)	0.0-6.8 %	1									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Ferritin	11.0-306.8 ng/mL	881.0 / H*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	GFR by MDRD	mL/min/1.73m^2; No Ref Rng	Unable to calculate									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	GGT	4-49 U/L	62 / H* G1*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Haptoglobin	30-200 mg/dL	113									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Hematocrit	34-48 %	19 / L*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Hemoglobin	11.6-16.4 g/dL	6.0 / LT* G3* EX*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	"Hemoglobin A,EDTAwb315PNL"	95.0-97.9 %	3.6 / L									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	"Hemoglobin A2,EDTAwb315PNL"	2.0-3.5 %	4.0 / H									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	"Hemoglobin C,EDTAwb315PNL"	% No Ref Rng	0									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	"Hemoglobin E,EDTAwb315PNL"	% No Ref Rng	0									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	"Hemoglobin F,EDTAwb315PNL"	0.0-2.1 %	7.8 / H									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	"Hemoglobin Oth,EDTAwb315PNL"	% No Ref Rng	0									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	"Hemoglobin S,EDTAwb315PNL"	% No Ref Rng	84.6									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	"Hemoglobin, CE EDTAwb315PNL"	No Ref Rng	Performed									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	"Hgb Eval Impre,EDTAwb315PNL"	No Ref Rng	See comment									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	"Hgb Evaluation,EDTAwb315PNL"	No Ref Rng	Abnormal									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Indirect Bili	0.0-1.2 mg/dL	2.9 / H									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	LDH	53-234 U/L	301 / H*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	LDL Chol-Friedewald 3rd -QT	70-156 mg/dL	55 / L									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Lymphocytes	0.91-4.28 x10^3/uL	2.81									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Lymphocytes (%)	15.4-48.5 %	9.0 / L*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	MCH	26-34 pg	30									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	MCHC	31-38 g/dL	32									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	MCV	79-98 fL	95									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Magnesium	1.6-2.6 mg/dL	2.2									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Metamyelocyte	0 x10^3/uL	0.31 / H*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Metamyelocyte	0%	1 / H*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Monocytes	0.12-0.92 x10^3/uL	2.49 / H*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Monocytes (%)	2.6-10.1 %	8									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Myelocyte	0%	1 / H*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Myelocyte	0 x10^3/uL	0.31 / H*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Neutrophils	1.96-7.23 x10^3/uL	21.20 / H*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Neutrophils (%)	40.5-75.0 %	68									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Nucleated Red Blood Cells	0%	4 / H*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Nucleated Red Blood Cells	0%	4 / H*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Opiates	Neg;; Cutoff = 300 ng/mL	Detected (unconfirmed)									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Opiates Confirmed-LCMSMS-LDT	No Ref Rng	Oxycodone (Confirmed) /   EX*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Phencyclidine	Neg;; Cutoff = 25 ng/mL	Neg									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Phosphorus	2.2-5.1 mg/dL	3.5									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Platelets	140-400 x10^3/uL	449 / H*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Propoxyphene	Neg;; Cutoff = 300 ng/mL	Neg									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	RBC	4.1-5.6 x10^6/uL	2.0 / LT*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	RDW	12.0-15.0 %	17.4 / H*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Reticulocyte Count %-CL	0.6-2.5 %	13.2 / H*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Reticulocyte Count WBEDTA-CL	0.030-0.120 x10^6/uL	0.264 / H*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Serum Bicarbonate	17.0-30.6 mEq/L	20.6									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Serum Chloride	94-112 mEq/L	97									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Serum Glucose	70-100 mg/dL	92									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Serum Potassium	3.5-5.2 mEq/L	4.6									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Serum Sodium	132-147 mEq/L	133									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Serum Uric Acid	2.1-7.2 mg/dL	4.9									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	"disease Soly,EDTAwbLDT315"	No Ref Rng	Positive									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Subject of black race?		Yes									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Total Bilirubin	0.2-1.2 mg/dL	4.4 / HT* G3*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Total Protein	6.1-8.4 g/dL	7.4									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Triglycerides (GPO)	39-176 mg/dL	70									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Ur Bacteria	Ref Rng:Not present	Present									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Ur Bilirubin	Ref Rng:Negative	Negative									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Ur Blood	Ref Rng:; Negative-Trace	Negative									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Ur Clarity	Ref Rng:Clear	Clear									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Ur Color	Ref Rng:; Colorless or Yellow	Brown									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Ur Glucose	Ref Rng:Normal	Normal									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Ur Ketones	Ref Rng:Negative	Negative									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Ur Leukocyte Esterase	Ref Rng:Negative	Negative									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Ur Microscopic		Positive									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Ur Nitrite	Ref Rng:Negative	Negative									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Ur Protein	Ref Rng:Negative	Trace / H									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Ur Specific Gravity	1.003-1.035 	1.014									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Ur Urobilinogen	Ref Rng:Normal	+1 / H*									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Ur WBC/HPF	0-12 /HPF	3									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Ur pH	5.0-8.0 	6									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	Urea Nitrogen	4-24 mg/dL	6									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	"Urine Cotinine, Qual.-CL"	Ref Rng:Negatvie	Negative									
+101	Joe Smith M.D	101-1001			Female	01-Jan-99	WBC	3.80-10.70 x10^3/uL	31.17 / HT*									
